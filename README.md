@@ -38,5 +38,3 @@ A simple and attractive pet adoption webpage.
 - CSS  
 
 ---
-
-## 📂 Project Structure
